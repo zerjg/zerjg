@@ -7,3 +7,5 @@
 zerjg/zerjg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="/images/example.png" alt="Пример изображения" width="50%" height="50%">
